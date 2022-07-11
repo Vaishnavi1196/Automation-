@@ -11,3 +11,4 @@ public class A {
 	public static void m3() {
 		System.out.println("this is third method");
 }
+}
